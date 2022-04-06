@@ -1,0 +1,20 @@
+{
+  "name": "orientacaoobjetojavascript",
+  "version": "1.0.0",
+  "description": "ByteBank",
+  "main": "ByteBank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroLopes7K/JavaScript-POO-ALURA.git"
+  },
+  "author": "Pedro Henrique Lopes",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PedroLopes7K/JavaScript-POO-ALURA/issues"
+  },
+  "homepage": "https://github.com/PedroLopes7K/JavaScript-POO-ALURA#readme"
+}
