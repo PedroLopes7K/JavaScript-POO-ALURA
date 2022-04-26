@@ -27,7 +27,7 @@ const cliente = {
 let imprimirDadosPrimitivos = ''
 
 for (let info in cliente) {
-  // console.log(info)
+  console.log(info)
   if (
     typeof cliente[info] === 'object' ||
     typeof cliente[info] === 'function'
@@ -37,5 +37,5 @@ for (let info in cliente) {
     imprimirDadosPrimitivos += ` ${info} ==> ${cliente[info]}\n`
   }
 }
-console.log(imprimirDadosPrimitivos)
+// console.log(imprimirDadosPrimitivos)
 // console.log(cliente['dependentes'])
